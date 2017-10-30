@@ -1,0 +1,19 @@
+
+#form1{
+  position: absolute;
+  left:950px;
+  height:60px;
+  width:180px;
+  top:20px;
+  font-family:verdana;
+  font-size:12px;
+}
+#form2{
+  position:absolute;
+  left:1140px;
+  height:60px;
+  width:250px;
+  top:20px;
+  font-family:verdana;
+  font-size:12px;
+}

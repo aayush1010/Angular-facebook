@@ -1,0 +1,18 @@
+.fb-body-footer{
+  width:100%;
+  position:absolute;
+  left:0px;
+  height:150px;
+  background:white;
+  top:700px;
+  padding-left:5em;
+}
+#fb-body-footer-base{
+  font-size: 15px;
+  width:900px;
+  top:15px;
+  left:200px;
+  color:#365899;
+  height:100px;
+
+}
